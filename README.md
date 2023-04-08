@@ -4,7 +4,7 @@
   <a href="https://github.com/solrachix/podcastr">
     <img alt="Move.it Logo" src="https://github.com/solrachix/podcastr/blob/master/public/icons/logo.svg?raw=true" width="50%" />
   </a>
-</h1>a
+</h1>
 
 <p align="center">O melhor para você ouvir, sempre</p>
 

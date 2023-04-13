@@ -30,7 +30,7 @@
 
 
 ## 💻 Sobre
- Podcastr é um aplicativo web criado durante a trilha de React da quinta edição da Next Level Week, um evento on-line organizado pela Rocketseat. Este aplicativo oferece aos usuários a possibilidade de ouvir seus podcasts favoritos, verificar os lançamentos recentes e obter mais informações sobre os podcasts que estão sendo reproduzidos no momento.
+ Podcastr é um aplicativo web criado durante a trilha de React da quinta edição da Next Level Week, um evento on-line organizado pela Rocketseat. Este aplicativo oferece aos usuários a possibilidade de ouvir seus podcasts favoritos, verificar os lançamentos recentes e obter mais informações sobre os podcasts que estão sendo reproduzidos no momento. 
 
 ## 🚀 Tecnologias
 

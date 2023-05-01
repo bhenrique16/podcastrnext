@@ -1,7 +1,8 @@
 # podcastrnext
 
 <h1 align="center">
-  <a href="https://github.com/solrachix/podcastr">
+  <a href="https://github.com/solrachix/podcastr"> 
+  
     <img alt="Move.it Logo" src="https://github.com/solrachix/podcastr/blob/master/public/icons/logo.svg?raw=true" width="50%" />
   </a>
 </h1>
